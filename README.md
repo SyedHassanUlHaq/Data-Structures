@@ -1,4 +1,4 @@
-Python Data Structures and Algorithms
+# Python Data Structures and Algorithms
 
 Discover a comprehensive collection of Python implementations for various data structures, sorting, and searching algorithms. This repository serves as a valuable resource for learning and practicing algorithms in Python.
 
